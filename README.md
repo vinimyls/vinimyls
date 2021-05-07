@@ -1,4 +1,4 @@
-<!--<img src="https://github.com/vinimyls/vinimyls/blob/master/assets/img/git.gif"> -->
+<img width="1920px" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/git.gif">
  
 <a href="https://www.linkedin.com/in/vinicius-mylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/linkedin.png"/></a>
 <a href="https://medium.com/@viniciusmylonas"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/behance.png"/></a>
