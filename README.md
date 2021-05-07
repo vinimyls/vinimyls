@@ -1,10 +1,8 @@
-<img src="https://github.com/vinimyls/vinimyls/blob/master/assets/img/git.gif">
+<!--<img src="https://github.com/vinimyls/vinimyls/blob/master/assets/img/git.gif"> -->
  
-<a href="https://vinimyls.github.io/"><img align="left" src="https://github.com/vinimyls/vinimyls//blob/master/assets/img/home.png"/></a>
-<a href="https://www.linkedin.com/in/vinicius-mylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls//blob/master/assets/img/linkedin.png"/></a>
-<a href="https://medium.com/@viniciusmylonas"><img align="left" src="https://github.com/vinimyls/vinimyls//blob/master/assets/img/medium.png"/></a>
-
-<a href="https://www.instagram.com/viniciusmylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/master/assets/img/insta.png"/></a>
+<a href="https://www.linkedin.com/in/vinicius-mylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/linkedin.png"/></a>
+<a href="https://medium.com/@viniciusmylonas"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/behance.png"/></a>
+<a href="https://www.instagram.com/viniciusmylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/insta.png"/></a>
 <br>
 <br>
 <br>
@@ -39,6 +37,9 @@ Lenguages
 * English     – B2	 (McGraw Hill certificate) 
 * German      – A1	 (McGraw Hill certificate)
 * Spanish     – A2	 (McGraw Hill certificate)</p>
+
+
+
 <br>
 <center>
 <table>
@@ -48,10 +49,12 @@ Lenguages
   </tr>   
 </table>
 </center>
-<br>
-inspired by [Thamiris A. Vicente](https://github.com/thamiavicente)
-</br>
 
+<br>
+
+inspired by [Thamiris A. Vicente](https://github.com/thamiavicente)
+
+</br>
 <!--
 **thamiavicente/thamiavicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
