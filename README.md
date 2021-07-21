@@ -1,7 +1,7 @@
 <img width="1920px" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/git.gif">
  
 <a href="https://www.linkedin.com/in/vinicius-mylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/linkedin.png"/></a>
-<a href="https://medium.com/@viniciusmylonas"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/behance.png"/></a>
+<a href="https://medium.com/@viniciusmylonas"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/medium.png"/></a>
 <a href="https://www.instagram.com/viniciusmylonas/"><img align="left" src="https://github.com/vinimyls/vinimyls/blob/main/assets/img/insta.png"/></a>
 <br>
 <br>
