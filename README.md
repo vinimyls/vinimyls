@@ -11,19 +11,19 @@
 <p>Electronic Engineer with specialization in Software Engineer
 
 * 9+ years of experience with software development for 8/16/32-bit MCUs;
-* 9+ years of atuation in fire alarm system industry;
-* 10+ years of study in electronic.
+* 9+ years of actuation in the fire alarm system industry;
+* 10+ years of study in electronics.
 * Experience in PCB design.
-* Expertise in FPGA digital design using VHDL and / or Verilog;
+* Expertise in FPGA digital design using VHDL and Verilog;
 * Teamwork skills;
-* Knowledge in Agile and Waterfall approaches.
+* Knowledge of Agile and Waterfall approaches.
 
 Qualifications - Knowledge and hands-on experience:
 
 * Knowledge of commonly used interfaces (e.g., PCIe, UART, I2C, USB, SPI)
 * Serial communication protocols: RS485, RS232;
 * Product development life-cycle and formal software development process in V-Model;
-* Hardware description lenguage (VHDL and Verilog) for FPGA.
+* Hardware description language (VHDL and Verilog) for FPGA.
 
 Knowledge and proficiency with software tools:
 
@@ -31,7 +31,7 @@ Knowledge and proficiency with software tools:
 * QuartusII
 * ModelSim
 
-Lenguages
+Languages
 
 * Portuguese  – Native
 * English     – B2	 (McGraw Hill certificate) 
