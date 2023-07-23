@@ -11,10 +11,9 @@
 <p>Electronic Engineer with specialization in Software Engineer
 
 * 9+ years of experience with software development for 8/16/32-bit MCUs;
-* 9+ years of actuation in the fire alarm system industry;
 * 10+ years of study in electronics.
 * Experience in PCB design.
-* Expertise in FPGA digital design using VHDL and Verilog;
+* Expertise in FPGA and ASIC digital design using VHDL and Verilog;
 * Teamwork skills;
 * Knowledge of Agile and Waterfall approaches.
 
@@ -33,21 +32,10 @@ Knowledge and proficiency with software tools:
 
 Languages
 
-* Portuguese  – Native
-* English     – B2	 (McGraw Hill certificate) 
-* German      – A1	 (McGraw Hill certificate)
+* Portuguese – Native
+* English  – B2	 (McGraw Hill certificate) 
+* German – A1	 (McGraw Hill certificate)
 
-
-
-<br>
-<center>
-<table>
-  <tr>
-    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinimyls&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimyls&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-  </tr>   
-</table>
-</center>
 
 <br>
 
