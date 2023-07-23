@@ -36,7 +36,6 @@ Languages
 * Portuguese  – Native
 * English     – B2	 (McGraw Hill certificate) 
 * German      – A1	 (McGraw Hill certificate)
-* Spanish     – A2	 (McGraw Hill certificate)</p>
 
 
 
